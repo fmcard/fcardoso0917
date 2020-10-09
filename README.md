@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Neuroscience
 - 👯 I'm looking to collaborate in teaching python
 - 📫 How to reach me: https://www.linkedin.com/in/flaviamc/
-- ⚡ Fun fact:LOVE low quality TV shows
+- ⚡ Fun fact: I LOVE low quality TV shows
 
 <!--
 **fcardoso0917/fcardoso0917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
