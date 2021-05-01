@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Data Scientist
 - 🌱 I’m currently learning Neuroscience
 - 👯 I'm looking to collaborate in teaching python
-- 📫 How to reach me: https://www.linkedin.com/in/flaviamc/
+- 📫 How to reach me: https://www.linkedin.com/in/flaviacardos/
 - ⚡ Fun fact: I LOVE low quality TV shows
 
 <!--
