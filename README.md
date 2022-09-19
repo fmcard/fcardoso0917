@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Data Scientist
-- 🌱 I’m currently learning Neuroscience
+- 🌱 I’m currently learning Machine Learning
 - 👯 I'm looking to collaborate in teaching python
 - 📫 How to reach me: fcardoso0917@gmail.com
 - ⚡ Fun fact: I LOVE low quality TV shows
